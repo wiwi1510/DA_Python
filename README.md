@@ -18,6 +18,6 @@ III. Explore data
   
 IV. Visualizing universities by year and type
 
-  Visualize 9 highlight infomation.
+  Visualize 8 highlight infomation.
 
 V. Conclusion
